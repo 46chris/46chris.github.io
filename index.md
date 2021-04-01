@@ -1,5 +1,5 @@
 # Projects
-### Unity 
+## Unity 
 ![Photo](/images/screamJam.png)  
-[Link to itch.io](https://viridian01.itch.io/office-hours)  
+[*Link*](https://viridian01.itch.io/office-hours) to play the game  
 A game made for **screamJam2020** on **itch.io**  
