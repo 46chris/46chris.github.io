@@ -1,4 +1,3 @@
-//Helper class just for this fucking method 
 class upTree{ 
     private: 
         //Key  = string = node / element = string = parent
