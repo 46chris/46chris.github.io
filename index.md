@@ -7,5 +7,13 @@
 [*Link*](https://viridian01.itch.io/office-hours) to play the game  
 
 ## School  
+Words to live by: 
+> "Start early, start often"  
+> 
+![Photo](/images/CSEBear.jpg)  
+### Uptree  
+**Description**: An implementation of an Uptree I wrote for CSE 100  
+*A code preview: *  
 
+[Check it out in the repo](/projects/upTree.cpp)
 ## Random  
